@@ -1,0 +1,8 @@
+实时代付---测试地址
+二要素实时代付： http://180.166.114.155:7181/delegate-pay-front-dp/delegatePay/pay
+订单查询： http://180.166.114.155:7181/delegate-pay-front-dp/delegatePay/queryOrderStatus
+商户余额查询接口： http://180.166.114.155:7181/delegate-pay-front-dp/delegatePay/queryBlance
+---正式地址
+二要素实时代付： https://www.unspay.com/delegate-pay-front/delegatePay/pay
+订单查询： https://www.unspay.com/delegate-pay-front/delegatePay/queryOrderStatus
+商户余额查询接口： https://www.unspay.com/delegate-pay-front/delegatePay/queryBlance
